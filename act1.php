@@ -9,7 +9,6 @@ $total = null;
 
 $total = $quantity * $price;
 
-echo "You Purchased {$quantity}x {$product} <br>";
-echo "Your Total Bill is: \${$total}";
+echo "You Purchased {$quantity}x {$product} <br>"; 
 
 ?>
